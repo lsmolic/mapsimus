@@ -1,0 +1,28 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+body,html{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.mf-map{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.mf-title{
+    font-family: Helvetica;
+    font-size: large;
+    color: darkred;
+    padding-left: 10px;
+}
+
+    .mf-testing{
+        background-color: orangered;
+    }

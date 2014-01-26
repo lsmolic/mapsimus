@@ -1,0 +1,11 @@
+= Mapsimus
+
+= Add the following to your application.js file
+
+    //= require mapsimus
+
+= Add the following to your application.css file
+
+    *= require mapsimus
+
+This project rocks and uses MIT-LICENSE.
