@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e9ab11-5dc7-45a2-80df-f40521512132" name="Default" comment="" />
+    <list default="true" id="49e9ab11-5dc7-45a2-80df-f40521512132" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/dummy/app/views/application/home.html.erb" afterPath="$PROJECT_DIR$/spec/dummy/app/views/application/home.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/dummy/config/routes.rb" afterPath="$PROJECT_DIR$/spec/dummy/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="mr_fusion.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/mr_fusion.gemspec" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390514499369" ignored="false" />
-    <file path="/Dummy.txt" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390611220258" ignored="false" />
+    <file path="/Dummy.txt" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390694691788" ignored="false" />
     <file path="/routes.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390499579321" ignored="false" />
     <file path="/a.dummy" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390615269507" ignored="false" />
     <file path="/index.html.erb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390521223716" ignored="false" />
     <file path="/map.css" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390525445362" ignored="false" />
-    <file path="/application.css" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390519234409" ignored="false" />
+    <file path="/application.css" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390696046970" ignored="false" />
     <file path="/map_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390611466538" ignored="false" />
     <file path="/map.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390693172388" ignored="false" />
     <file path="/fragment.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390685713934" ignored="false" />
-    <file path="/application_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390692701110" ignored="false" />
+    <file path="/application_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695513369" ignored="false" />
     <file path="/home.html.erb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390685909224" ignored="false" />
     <file path="/application.html.erb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390516598673" ignored="false" />
     <file path="/map_helper.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390521250275" ignored="false" />
     <file path="/map.js" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390431969840" ignored="false" />
     <file path="/_content.html.erb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390433344534" ignored="false" />
     <file path="/map.coffee" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390692967784" ignored="false" />
-    <file path="/Gemfile" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390687604991" ignored="false" />
+    <file path="/Gemfile" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695797145" ignored="false" />
     <file path="/application.js" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390433281407" ignored="false" />
     <file path="/homocide.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390445408054" ignored="false" />
     <file path="/Ruby Console" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390687542800" ignored="false" />
     <file path="/homocide_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390445329102" ignored="false" />
-    <file path="/data_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390685237242" ignored="false" />
+    <file path="/data_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695956547" ignored="false" />
     <file path="/homicide.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390501269844" ignored="false" />
     <file path="/development.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390502167788" ignored="false" />
     <file path="/marker.coffee" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390507965236" ignored="false" />
@@ -41,6 +47,16 @@
     <file path="/Rakefile" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390614950183" ignored="false" />
     <file path="/spec_helper.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390616798428" ignored="false" />
     <file path="/url_validator.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390690283516" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/Gemfile" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695811192" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/controllers/data_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695956547" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/models/homicide.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695311785" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/controllers/application_controller.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695514720" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/config/routes.rb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695843378" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/views/layouts/application.html.erb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390695432997" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/views/home.html.erb" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390697004081" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/assets/javascripts/application.js" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390696718538" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/assets/stylesheets/application.css" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390696046970" ignored="false" />
+    <file path="$PROJECT_DIR$/../homicides/app/assets/stylesheets/home.css" changelist="49e9ab11-5dc7-45a2-80df-f40521512132" time="1390696793239" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,25 +79,16 @@
       <file leaf-file-name="mapsimus.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mapsimus.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="46" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0">
+            <state line="22" column="20" selection-start="793" selection-end="818" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/dummy/app/controllers/data_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="map.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/mapsimus/map.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="47" selection-start="3990" selection-end="3990" vertical-scroll-proportion="0.12698413">
+            <state line="139" column="47" selection-start="3990" selection-end="3990" vertical-scroll-proportion="-72.0">
               <folding />
             </state>
           </provider>
@@ -90,7 +97,7 @@
       <file leaf-file-name="_view.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/map/_view.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="70" selection-start="148" selection-end="148" vertical-scroll-proportion="-0.625">
+            <state line="5" column="65" selection-start="0" selection-end="164" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -99,16 +106,61 @@
       <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/dummy/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
+            <state line="5" column="2" selection-start="202" selection-end="899" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/map.rb">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="45" selection-start="1317" selection-end="1317" vertical-scroll-proportion="0.0">
+            <state line="1" column="28" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/dummy/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/dummy/app/assets/stylesheets/application.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="1" selection-start="570" selection-end="589" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/dummy/app/assets/stylesheets/home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="56" selection-start="279" selection-end="279" vertical-scroll-proportion="0.67105263">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/dummy/app/views/application/home.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/dummy/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="2" selection-start="251" selection-end="375" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -121,16 +173,21 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/spec/controllers/map_controller_spec.rb" />
-        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/app/models/homicide.rb" />
         <option value="$PROJECT_DIR$/app/controllers/data_controller.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/mapsimus/map_marker.coffee" />
         <option value="$PROJECT_DIR$/spec/dummy/app/controllers/data_controller.rb" />
-        <option value="$PROJECT_DIR$/spec/dummy/app/views/application/home.html.erb" />
         <option value="$PROJECT_DIR$/mapsimus.gemspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/map/_view.html.erb" />
@@ -140,6 +197,9 @@
         <option value="$PROJECT_DIR$/app/models/map.rb" />
         <option value="$PROJECT_DIR$/spec/dummy/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/mapsimus/map.coffee" />
+        <option value="$PROJECT_DIR$/spec/dummy/app/views/application/home.html.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/spec/dummy/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -149,7 +209,23 @@
     <option name="width" value="1438" />
     <option name="height" value="820" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -224,6 +300,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dummy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mr_fusion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapsimus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dummy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -688,7 +786,7 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="web.server" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spec" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -1096,7 +1194,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="22" width="1438" height="820" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1105,7 +1203,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25359195" sideWeight="0.5961273" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40387276" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40387276" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38636363" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21161826" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1181,48 +1279,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/helpers/map_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/dummy/app/models/homicide.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="98" selection-end="98" vertical-scroll-proportion="0.15107913">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/actionpack-4.0.2/lib/action_controller/metal/rescue.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.59057075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/dummy/app/views/application/home.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="49" selection-end="49" vertical-scroll-proportion="0.039577838">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/mapsimus/map_marker.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="41" selection-end="41" vertical-scroll-proportion="0.11166253">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="54" selection-start="633" selection-end="633" vertical-scroll-proportion="0.41007194">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/mapsimus.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1237,40 +1293,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/dummy/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="570" selection-end="589" vertical-scroll-proportion="0.5131579">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/dummy/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="18" selection-start="620" selection-end="620" vertical-scroll-proportion="0.5210918">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/dummy/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/dummy/app/controllers/data_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mapsimus.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="46" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1281,16 +1309,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/app/controllers/data_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="0" selection-end="869" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/app/models/homicide.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="20" selection-start="0" selection-end="249" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/map/_view.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="70" selection-start="148" selection-end="148" vertical-scroll-proportion="-0.625">
+        <state line="5" column="65" selection-start="0" selection-end="164" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="2" selection-start="202" selection-end="899" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="2" selection-start="251" selection-end="375" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/app/views/application/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/mapsimus/map.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="47" selection-start="3990" selection-end="3990" vertical-scroll-proportion="0.12698413">
+        <state line="139" column="47" selection-start="3990" selection-end="3990" vertical-scroll-proportion="-72.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapsimus.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="20" selection-start="793" selection-end="818" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="28" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="570" selection-end="589" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/dummy/app/assets/stylesheets/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="56" selection-start="279" selection-end="279" vertical-scroll-proportion="0.67105263">
           <folding />
         </state>
       </provider>
